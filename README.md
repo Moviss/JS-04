@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 4 - Funkcje
 
 ### Jak uruchomić?
 
